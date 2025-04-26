@@ -56,7 +56,7 @@ class MyComponent extends React.Component {
                 <strong>Tempat:</strong> Diinfokan Nanti
               </p>
               <p>
-                <strong>Waktu:</strong> 15:30 WIB, Dijemput di rumah-mu
+                <strong>Waktu:</strong> 16:00 WIB, Dijemput di rumah-mu
               </p>
               <p>
                 <strong>Tanggal:</strong> April 27, 2025
